@@ -1,0 +1,3 @@
+Welcome, This is a early build of the game!
+
+If you are reading this your servers are connected and working, hopefully.
